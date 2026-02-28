@@ -26,3 +26,5 @@ print("hello world")
 
 as someone said
 > nevermind
+
+[open google]("www.google.com" "goes to google")
