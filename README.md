@@ -18,6 +18,8 @@ another list
 3. six
 ***
 
-'''py
+```py
 print("hello world")
-'''
+```
+
+`smth else`
