@@ -6,7 +6,7 @@ _text_
 ___a bit more___  
 
 a list
-+++
+---
 * one
 * two
 * three
